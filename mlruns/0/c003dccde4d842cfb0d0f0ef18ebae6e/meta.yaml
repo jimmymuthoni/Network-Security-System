@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jimmy/Documents/Network%20Security%20System/mlruns/0/c003dccde4d842cfb0d0f0ef18ebae6e/artifacts
+end_time: 1739012916465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c003dccde4d842cfb0d0f0ef18ebae6e
+run_name: grandiose-jay-822
+run_uuid: c003dccde4d842cfb0d0f0ef18ebae6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739012907713
+status: 3
+tags: []
+user_id: jimmy

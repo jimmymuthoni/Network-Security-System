@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jimmy/Documents/Network%20Security%20System/mlruns/0/dc4204168f664d64af93f091e1b894a9/artifacts
+end_time: 1739012907549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc4204168f664d64af93f091e1b894a9
+run_name: judicious-cat-442
+run_uuid: dc4204168f664d64af93f091e1b894a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739012893170
+status: 3
+tags: []
+user_id: jimmy

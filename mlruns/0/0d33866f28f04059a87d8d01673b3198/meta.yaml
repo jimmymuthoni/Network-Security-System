@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jimmy/Documents/Network%20Security%20System/mlruns/0/0d33866f28f04059a87d8d01673b3198/artifacts
+end_time: 1739013575820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d33866f28f04059a87d8d01673b3198
+run_name: defiant-trout-160
+run_uuid: 0d33866f28f04059a87d8d01673b3198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739013571117
+status: 3
+tags: []
+user_id: jimmy
