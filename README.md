@@ -1,12 +1,12 @@
-# Network Security System - Phishing Website Detection
+### Network Security System - Phishing Website Detection
 
-This project is an **AI-powered cybersecurity solution** designed to identify and block phishing websites in real-time. It reads phishing and legitimate website data from **MongoDB Atlas**, performs **feature engineering**, trains machine learning models, and exposes a user-friendly **Streamlit interface** for live predictions.
+This project is an ML-powered cybersecurity solution designed to identify and block phishing websites in real-time. It reads phishing and legitimate website data from **MongoDB Atlas**, performs **feature engineering**, trains machine learning models, and exposes a user-friendly **Streamlit interface** for live predictions.
 
 The system is built with **modular pipelines** for training and testing, enabling easy updates and evaluations on new data. It also includes pre-trained model persistence (`model.pkl`, `preprocessing.pkl`) for efficient deployment.
 
 ---
 
-# Project Overview
+### Project Overview
 
 With the increasing number of phishing attacks targeting individuals and organizations, this project provides a **machine learning-based network defense mechanism** that classifies URLs as **phishing** or **legitimate** based on various attributes extracted from the URL and page structure.
 
